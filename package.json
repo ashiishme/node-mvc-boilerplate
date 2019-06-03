@@ -1,0 +1,23 @@
+{
+  "name": "node-mvc-boilerplate",
+  "version": "1.0.0",
+  "description": "A simple NodeJS Model View Controller boilerplate application.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS",
+    "NodeJS",
+    "MVC",
+    "Node",
+    "MVC",
+    "boilerplate"
+  ],
+  "author": "Ashish Yadav",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.17.1"
+  }
+}
